@@ -26,6 +26,8 @@ Um Drill Up faz o inverso, pega a menor granularidade (mais detalhado) e sobe na
 1 – Faça um Desenho da modelagem deste Data Warehouse relacionando as tabelas.
 O desenho do modelo foi feito no MySQL Workbench em diagramas:
 
+<img src="https://github.com/diogogon/Teste-Hypercloud/blob/master/Modelagem_Snowflake.png" width="300">
+
 1.1 - Qual a modelagem projetada?
 Esquema floco de neve (SnowFlake), pois nesse caso há ramificações nas dimensões, isto é, ligação entre elas.
 
