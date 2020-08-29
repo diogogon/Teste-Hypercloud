@@ -1,5 +1,5 @@
 <h1 align="center"> Teste Hypercloud </h1>
-<p align="center"> Teste técnico de Business Intelligence da Hypercloud para avaliar a aptdão ao cargo de Assistente de BI (Home Office) </p>
+<p align="center"> Teste de Business Intelligence da Hypercloud para avaliar a aptdão ao cargo de Assistente de BI (Home Office) </p>
 
 ## Teste teórico:
 #### 1. Para você, o que significa Business Inteligence?
